@@ -8,5 +8,6 @@ public class hi {
         System.out.println("haha");
         System.out.println("hhhhhhhhhhhhhha");
         System.out.println("baobei");
+        System.out.println("0000000000");
     }
 }
